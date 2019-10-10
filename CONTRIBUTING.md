@@ -26,7 +26,7 @@ The following is a set of guidelines for contributing to this project and its pa
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Project Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [atom@github.com](mailto:atom@github.com).
+This project and everyone participating in it is governed by the [Project Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [connor@crossley.dev](mailto:connor@crossley.dev).
 
 ## I don't want to read this whole thing I just have a question!!!
 
@@ -55,7 +55,7 @@ Explain the problem and include additional details to help maintainers reproduce
 
 This section guides you through submitting an enhancement suggestion for this project, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
 
-When you are creating an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion). Fill in [the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/feature_request.md), including the steps that you imagine you would take if the feature you're requesting existed.
+When you are creating an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion). Fill in [the template](https://github.com/DevStation-Alumni/.github/blob/master/.github/ISSUE_TEMPLATE/feature_request.md), including the steps that you imagine you would take if the feature you're requesting existed.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
